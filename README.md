@@ -25,6 +25,8 @@ The project loads data from the [Agricultural-pests-image-dataset](https://www.k
 
 The code includes data visualization using matplotlib and seaborn to help you understand the dataset and its characteristics.
 https://github.com/NomanShabeer/Agriculture-Pest-Prediction/blob/main/Capture.PNG
+![image](https://github.com/NomanShabeer/Agriculture-Pest-Prediction/assets/144251597/ce1c2349-7631-42b6-960f-7d1f344288b7)
+
 
 **Model:**
 
@@ -37,8 +39,11 @@ The code involves training the model on the provided dataset. It uses data augme
 **Prediction on Test Data:**
 
 The code predicts labels for test data and evaluates the model's performance using metrics like accuracy and a confusion matrix.
+
 **Results:**
 https://github.com/NomanShabeer/Agriculture-Pest-Prediction/blob/main/Result.PNG
+![image](https://github.com/NomanShabeer/Agriculture-Pest-Prediction/assets/144251597/4e31aac8-0060-4c6c-8f40-c8ae50567b05)
+
 
 **Data Visualization and User Interface:**
 
@@ -66,7 +71,6 @@ If you found this project valuable or insightful, please consider giving it a st
 
 - Noman Shabbir
 - GitHub: [Noman Shabeer](https://github.com/NomanShabeer)
--
 
 ## Contact
 
