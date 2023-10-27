@@ -42,8 +42,7 @@ The code predicts labels for test data and evaluates the model's performance usi
 
 **Results:**
 https://github.com/NomanShabeer/Agriculture-Pest-Prediction/blob/main/Result.PNG
-![image](https://github.com/NomanShabeer/Agriculture-Pest-Prediction/assets/144251597/4e31aac8-0060-4c6c-8f40-c8ae50567b05)
-
+![image](https://github.com/NomanShabeer/Agriculture-Pest-Prediction/assets/144251597/1058e105-5041-4492-a44c-6daf16eb2f8f)
 
 **Data Visualization and User Interface:**
 
